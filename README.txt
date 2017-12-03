@@ -30,5 +30,4 @@ Notes:
   - The default configuration is for H2 in memory database, if you want a non volatile memory,
     change the setting at PROPERTIES file. The first commented lines could work as a template for a MySQL database
   - The packaging must be war, because the views are JSP
-    https://docs.spring.io/spring-boot/docs/current/reference/html/boot-
-features-developing-web-applications.html#boot-features-jsp-limitations
+    https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-web-applications.html#boot-features-jsp-limitations
