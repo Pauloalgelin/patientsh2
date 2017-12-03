@@ -1,6 +1,6 @@
 Spring boot web application using Spring MVC, Hibernate JPA, Maven, Tomcat and H2.
 
-Use it to maitain a list of Patients and their exams.
+Use it to maintain a list of patients and their exams.
 
 (1) Using Patients.war:
   - Download Patients.war
